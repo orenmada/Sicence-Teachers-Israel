@@ -1,0 +1,5 @@
+{
+  "name": "Israel Teacher Finder",
+  "description": "An advanced tool to locate Physics, Chemistry, and Biology coordinators and teachers in high schools across Israeli cities using Gemini Search Grounding.",
+  "requestFramePermissions": []
+}
